@@ -1,5 +1,3 @@
-![computer-gif-gfycat](https://user-images.githubusercontent.com/80959882/232631319-934a9475-5e41-4a91-ac38-28165f36000e.gif)
-
 
 ### Hi 👋, I'm Hager Elhwarii
 
