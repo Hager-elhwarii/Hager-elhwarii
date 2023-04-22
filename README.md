@@ -43,6 +43,17 @@
 <p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=hager-elhwarii&show_icons=true&locale=en&layout=compact" alt="hager-elhwarii" /></p>
   </div>
   
+ ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+
+<details>
+  <summary>📊 <b>Github Stats</b></summary>
+ <br />
+ <div align="center">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hager-elhwarii&show_icons=true&locale=en" alt="hager-elhwarii" /></p>
+
+ </div>
+</details>
+  
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hager elhwarii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hager elhwarii" height="30" width="40" /></a>
