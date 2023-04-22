@@ -25,6 +25,10 @@
 
 - 📫 How to reach me **hager.a.elhawary@gmail.com**
 
+- 📄 Know about my experiences [https://www.linkedin.com/in/hager-omar-elhawary/](https://www.linkedin.com/in/hager-omar-elhawary/)
+
+- ⚡ Fun fact **love singing 🎤**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hager elhwarii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hager elhwarii" height="30" width="40" /></a>
