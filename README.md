@@ -1,6 +1,7 @@
 
 <img align="center" alt="Coding" height="320" width="100%" src="https://cutewallpaper.org/24/computer-animated-gif/computer-gif-gfycat.gif">
-<h1 align="center">Hey 👋, I'm Hager Elhwarii</h1>
+<h1 align="center">Hey  <img align="center" alt="Coding"  width="50" margin-bottom="10" src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif">, I'm Hager Elhwarii
+ </h1>
 
 <div align="center">
  <span>and I'm a</span>
@@ -36,12 +37,14 @@
 <br/>
 
 <div align="center">
-<p><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=hager-elhwarii&" alt="hager-elhwarii" /></p>
+<p><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=hager-elhwarii&theme=react&hide_border=false" alt="hager-elhwarii" /></p>
   </div>
   
 <div align="center">
-<p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=hager-elhwarii&show_icons=true&locale=en&layout=compact" alt="hager-elhwarii" /></p>
+<p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=hager-elhwarii&show_icons=true&locale=en&layout=compact&theme=react&hide_border=false" alt="hager-elhwarii" /></p>
   </div>
+  
+ 
   
  ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
@@ -49,11 +52,12 @@
   <summary>📊 <b>Github Stats</b></summary>
  <br />
  <div align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hager-elhwarii&show_icons=true&locale=en" alt="hager-elhwarii" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hager-elhwarii&show_icons=true&locale=en&theme=react&hide_border=false" alt="hager-elhwarii" /></p>
 
  </div>
 </details>
-  
+<br/>
+
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hager elhwarii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hager elhwarii" height="30" width="40" /></a>
