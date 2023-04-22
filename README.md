@@ -13,7 +13,7 @@
   
  </div>
  
-<img align="right" alt="Coding" width="450" src="https://graphicdesignjunction.com/wp-content/uploads/2019/03/responsive_app_icons.gif">
+<img align="right" alt="Coding" width="400" src="https://graphicdesignjunction.com/wp-content/uploads/2019/03/responsive_app_icons.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hager-elhwarii&label=Profile%20views&color=0e75b6&style=flat" alt="hager-elhwarii" /> </p>
