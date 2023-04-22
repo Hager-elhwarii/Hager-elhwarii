@@ -43,8 +43,8 @@
 <div align="center">
 <p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=hager-elhwarii&show_icons=true&locale=en&layout=compact&theme=react&hide_border=false" alt="hager-elhwarii" /></p>
   </div>
-  
- <img align="center" alt="Coding" height="320" width="100%" src="https://assets.objkt.media/file/assets-003/QmZMk7qy7J1PFAe2CKfeFbSiUN5eRwaRtY2gFoKCT8dDmi/artifact">
+  <br/>
+ <img align="center" alt="Coding" height="200" width="100%" src="https://assets.objkt.media/file/assets-003/QmZMk7qy7J1PFAe2CKfeFbSiUN5eRwaRtY2gFoKCT8dDmi/artifact">
  
  ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
