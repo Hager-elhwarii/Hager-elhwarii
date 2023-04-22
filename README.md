@@ -1,7 +1,17 @@
 
 <img align="center" alt="Coding" height="400" width="100%" src="https://cutewallpaper.org/24/computer-animated-gif/computer-gif-gfycat.gif">
-<h1 align="center">Hi 👋, I'm Hager Elhwarii</h1>
-<h2 align="center" color="red" >A passionate Frontend Developer 🐱‍💻</h2>
+<h1 align="center">Hey 👋, I'm Hager Elhwarii</h1>
+
+<div align="center">
+ <span>and I'm a</span>
+  </div>
+  
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4950&pause=1000&color=D8F72F&center=true&vCenter=true&width=435&lines=Front-End+Developer;Web+Designer+%F0%9F%92%BB)](https://git.io/typing-svg)
+  
+ </div>
+ 
 <img align="right" alt="Coding" width="450" src="https://graphicdesignjunction.com/wp-content/uploads/2019/03/responsive_app_icons.gif">
 
 
