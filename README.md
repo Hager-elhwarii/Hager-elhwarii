@@ -1,5 +1,5 @@
 
-<img align="center" alt="Coding" height="400" width="100%" src="https://cutewallpaper.org/24/computer-animated-gif/computer-gif-gfycat.gif">
+<img align="center" alt="Coding" height="350" width="100%" src="https://cutewallpaper.org/24/computer-animated-gif/computer-gif-gfycat.gif">
 <h1 align="center">Hey 👋, I'm Hager Elhwarii</h1>
 
 <div align="center">
