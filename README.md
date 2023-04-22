@@ -29,7 +29,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hager-omar-elhawary/](https://www.linkedin.com/in/hager-omar-elhawary/)
 
-- ⚡ Fun fact **love singing 🎤**
+- ⚡ Fun fact **Love singing 🎤**
 <br/>
 
 <h3 align="left"> <img src="https://media.tenor.com/NC-2C-R86xwAAAAi/laptop.gif" width="30">  Languages and Tools:</h3>
