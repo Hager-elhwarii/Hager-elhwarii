@@ -63,7 +63,6 @@
 <a href="https://linkedin.com/in/hager elhwarii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hager elhwarii" height="30" width="40" /></a>
 <a href="https://fb.com/hager.elhwarii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hager.elhwarii" height="30" width="40" /></a>
 <a href="https://instagram.com/gigiielhwarii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gigiielhwarii" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hager elhawary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hager elhawary" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hager_elhwarii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hager_elhwarii" height="30" width="40" /></a>
 </p>
 
