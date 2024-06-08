@@ -1,5 +1,5 @@
 
-<img align="center" alt="Coding" height="10%"  width="100%" src="https://i0.wp.com/rad-code.sbs/wp-content/uploads/2023/07/hello-world.gif?resize=1024%2C1024&ssl=1">
+<img align="center" alt="Coding" width="100%" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*X7Q84nkQN1DiFXC-rQLt9g.gif">
 <h1 align="center">Hey  <img align="center" alt="Coding"  width="50" src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif">, I'm Hager Elhwarii
  </h1>
 <div align="center">
