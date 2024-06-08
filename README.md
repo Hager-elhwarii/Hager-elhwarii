@@ -23,10 +23,10 @@
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
+- 
+- 📫 How to reach me [**hager.a.elhawary@gmail.com**](https://mail.google.com/mail/u/0/?to=hager.a.elhawary@gmail.com&fs=1&tf=cm)
 
-- 📫 How to reach me **hager.a.elhawary@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/hager-omar-elhawary/](https://www.linkedin.com/in/hager-omar-elhawary/)
+- 📄 Know about my experiences [**Hager Elhawary Linkedin**](https://www.linkedin.com/in/hager-omar-elhawary/)
 
 - ⚡ Fun fact **Love singing 🎤**
 <br/>
@@ -57,7 +57,17 @@
 <br/>
 
  <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hager elhwarii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hager elhwarii" height="30" width="40" /></a>
+ <div align="left">
+  
+  <a href="https://mail.google.com/mail/u/0/?to=hager.a.elhawary@gmail.com&fs=1&tf=cm" target="_blank">
+   <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"  />
+  </a>
+  
+   <a href="https://www.linkedin.com/in/hager-omar-elhawary/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+
+ </div>
+
 
 
