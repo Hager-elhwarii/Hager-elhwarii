@@ -43,20 +43,9 @@
 <p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=hager-elhwarii&show_icons=true&locale=en&layout=compact&theme=react&hide_border=false" alt="hager-elhwarii" /></p>
   </div>
   <br/>
+
+ <h3 align="left">**Connect with me:**</h3>
  
- ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
-
-<details>
-  <summary>📊 <b>Github Stats</b></summary>
- <br />
- <div align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hager-elhwarii&show_icons=true&locale=en&theme=react&hide_border=false" alt="hager-elhwarii" /></p>
-
- </div>
-</details>
-<br/>
-
- <h3 align="left">Connect with me:</h3>
  <div align="left">
   
   <a href="https://mail.google.com/mail/u/0/?to=hager.a.elhawary@gmail.com&fs=1&tf=cm" target="_blank">
