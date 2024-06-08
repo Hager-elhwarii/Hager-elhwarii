@@ -28,7 +28,7 @@
 
 - 📄 Know about my experiences [**Linkedin**](https://www.linkedin.com/in/hager-omar-elhawary/)
 
-- ⚡ Fun fact **Love singing 🎤**
+- ⚡ Fun fact **G**
 <br/>
 
 <h3 align="left"> <img src="https://media.tenor.com/NC-2C-R86xwAAAAi/laptop.gif" width="30">  Languages and Tools:</h3>
@@ -44,7 +44,7 @@
   </div>
   <br/>
 
- <h3 align="left">**Connect with me:**</h3>
+ <h3 align="left">Connect with me:</h3>
  
  <div align="left">
   
