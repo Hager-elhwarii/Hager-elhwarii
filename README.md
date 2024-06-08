@@ -1,6 +1,6 @@
 
 <img align="center" alt="Coding" width="100%" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*X7Q84nkQN1DiFXC-rQLt9g.gif">
-<h1 align="center">Hey , I'm Hager Elhwarii </h1>
+<h1 align="center"> I'm Hager Elhwarii </h1>
 <div align="center">
  <span>and I'm a</span>
   </div>
