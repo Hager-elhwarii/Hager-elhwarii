@@ -26,7 +26,7 @@
 - 
 - 📫 How to reach me [**hager.a.elhawary@gmail.com**](https://mail.google.com/mail/u/0/?to=hager.a.elhawary@gmail.com&fs=1&tf=cm)
 
-- 📄 Know about my experiences [**Hager Elhawary Linkedin**](https://www.linkedin.com/in/hager-omar-elhawary/)
+- 📄 Know about my experiences [**https://www.linkedin.com/in/hager-omar-elhawary/**](https://www.linkedin.com/in/hager-omar-elhawary/)
 
 - ⚡ Fun fact **Love singing 🎤**
 <br/>
