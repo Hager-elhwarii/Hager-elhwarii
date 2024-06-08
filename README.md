@@ -7,7 +7,7 @@
   
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4950&pause=1000&color=F7D433&center=true&vCenter=true&width=435&lines=Front-End+Developer;Web+Designer+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=4950&pause=1000&color=01FF01&center=true&random=false&width=435&lines=Frontend++Developer;Ui+Developer+)](https://git.io/typing-svg)
   
  </div>
  
@@ -60,8 +60,5 @@
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hager elhwarii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hager elhwarii" height="30" width="40" /></a>
-<a href="https://fb.com/hager.elhwarii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hager.elhwarii" height="30" width="40" /></a>
-<a href="https://instagram.com/gigiielhwarii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gigiielhwarii" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hager_elhwarii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hager_elhwarii" height="30" width="40" /></a>
-</p>
+
 
