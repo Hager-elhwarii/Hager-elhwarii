@@ -36,7 +36,7 @@
 <br/><br/>
 
 <div width="100%">
-<p><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=hager-elhwarii&theme=react&hide_border=false" alt="hager-elhwarii" /></p>
+<img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=hager-elhwarii&theme=react&hide_border=false" alt="hager-elhwarii" width="100%" />
   </div>
   
 <div align="left">
